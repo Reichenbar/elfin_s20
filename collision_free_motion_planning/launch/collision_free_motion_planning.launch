@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="collision_free_motion_planning_node" pkg="collision_free_motion_planning" type="collision_free_motion_planning_node" output="screen">
+  </node>
+
+</launch>
